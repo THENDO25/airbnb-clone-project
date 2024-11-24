@@ -38,3 +38,19 @@ Increase user engagement and satisfaction
 Improve conversion rates and revenue
 Enhance the overall reputation and credibility of the platform
 By prioritizing UI/UX design, we can create a booking system that is both functional and enjoyable to use, ultimately driving business success.
+
+Design Properties
+Layout
+Width: 4228px
+Height: 10557px
+Top: 1553px
+Left: -2818px
+Gap: 0px
+Border and Radius
+Border Radius: 41px 0px 0px 0px
+Border: 11px 0px 0px 0px
+Visual Styles
+Opacity: 0px
+Background Color: #444444
+background: #222222
+
