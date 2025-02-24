@@ -54,56 +54,58 @@ Opacity: 0px
 Background Color: #444444
 background: #222222
 
-1. Project Manager
+# Project Roles and Responsibilities.
+
+## 1. Project Manager
 Key Responsibilities:
 Oversees the entire project lifecycle
 Coordinates team activities and ensures timely completion
 Manages project budget and resources
 Identifies and mitigates project risks
 Contribution to Project Success: Ensures the project is completed on time, within budget, and to the required quality standards.
-2. Frontend Developers
+## 2. Frontend Developers
 Key Responsibilities:
 Design and develop the user interface and user experience
 Write clean, efficient, and well-documented code
 Ensure cross-browser compatibility and responsiveness
 Collaborate with designers and backend developers
 Contribution to Project Success: Creates a visually appealing and user-friendly interface that meets the project's requirements.
-3. Backend Developers
+## 3. Backend Developers
 Key Responsibilities:
 Design and develop the server-side logic and database integration
 Write clean, efficient, and well-documented code
 Ensure data security and scalability
 Collaborate with frontend developers and designers
 Contribution to Project Success: Develops a robust and efficient backend infrastructure that supports the project's functionality.
-4. Designers
+## 4. Designers
 Key Responsibilities:
 Create visually appealing and user-friendly design concepts
 Develop wireframes, prototypes, and high-fidelity designs
 Ensure design consistency throughout the project
 Collaborate with frontend developers and project manager
 Contribution to Project Success: Creates a design that meets the project's requirements and is aligned with the target audience's needs.
-5. QA/Testers
+## 5. QA/Testers
 Key Responsibilities:
 Develop and execute testing plans and cases
 Identify and report defects and bugs
 Collaborate with developers to resolve issues
 Ensure the project meets the required quality standards
 Contribution to Project Success: Ensures the project is thoroughly tested and meets the required quality standards.
-6. DevOps Engineers
+## 6. DevOps Engineers
 Key Responsibilities:
 Develop and implement continuous integration and continuous deployment (CI/CD) pipelines
 Ensure smooth and efficient deployment of code changes
 Monitor and optimize system performance and scalability
 Collaborate with developers and QA/testers
 Contribution to Project Success: Ensures the project is deployed efficiently and meets the required performance and scalability standards.
-7. Product Owner
+## 7. Product Owner
 Key Responsibilities:
 Defines and prioritizes project requirements and features
 Ensures alignment with business goals and objectives
 Collaborates with stakeholders and team members
 Makes decisions on scope, timeline, and budget
 Contribution to Project Success: Ensures the project meets the business requirements and delivers value to stakeholders.
-8. Scrum Master
+## 8. Scrum Master
 Key Responsibilities:
 Facilitates Scrum framework and processes
 Ensures team adherence to Scrum principles and practices
@@ -112,7 +114,7 @@ Coordinates Scrum ceremonies and events
 Contribution to Project Success: Ensures the team follows Scrum principles and practices, facilitating efficient collaboration and delivery.
 
 
-UI Component Patterns
+# UI Component Patterns
 This section outlines the UI components that will be created for the AirBnB Clone project. These components will follow a consistent design pattern to ensure a cohesive and visually appealing user interface.
 1. Navbar
 Description: A navigation bar that allows users to access different pages and features of the application.
