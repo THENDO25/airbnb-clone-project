@@ -17,9 +17,8 @@ This project is to create a clone of the popular vacation rental platform, Airbn
 * Integrate a mapping feature to display rental locations
 
 ## UI/UX Design Planning
-* Design Goals
-The primary objective of the UI/UX design is to create an intuitive, user-friendly, and visually appealing booking system that simplifies the process of searching, selecting, and booking properties.
-* Key Features
+Design Goals
+The primary objective of the UI/UX design is to create an intuitive, user-friendly, and visually appealing booking system that simplifies the process of searching, selecting, and booking properties. Key Features
 The following key features will be implemented:
 Responsive design for seamless user experience across various devices
 Simple and intuitive navigation
